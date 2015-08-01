@@ -6,7 +6,7 @@ published: true
 
 Sometimes, you find yourself doing the same things over and over (and when you code), like linting, minifying / uglifying, or installing from several different package managers (npm, bower, etc). It can be annoying and time-consuming to do all that manually several times. Wouldn't it be awesome if there was a tool that allowed us to automate just about anything?
 
-##Enter [Grunt.](http://gruntjs.com/)
+## Enter [Grunt.](http://gruntjs.com/)
 
 Here's an example Gruntfile from one of my team projects at Hack Reactor:
 
@@ -121,7 +121,7 @@ It also gives the command "grunt build," which lints, applies some specific Angu
 
 Let's step through it:
 
-###1. Wrapper
+### 1. Wrapper
 The first thing every gruntfile needs is a wrapper function.
 ```
 module.exports = function (grunt) {
@@ -129,20 +129,20 @@ module.exports = function (grunt) {
 }
 ```
 
-###2. Config
+### 2. Config
 The first thing inside the wrapper function is your config initialization. This will allow us to declare our package information (in this case, using NPM's "package.json"), as well as declare what each of our tasks will actually *do*.
 ```
 grunt.initConfig({
 //any setup, as well as what your various tasks will do, goes here
 })
 ```
-###3.Dependencies
+### 3.Dependencies
 The series of grunt modules your gruntfile requires to run. Each of these must be installed using npm in order to be used.
 ```
  grunt.loadNpmTasks('gruntModuleNameHere');
 ```
 
-###4.Tasks
+### 4.Tasks
 Here's where you set your bound task names. The "default" task list will run when you type "grunt" in the command line.
 ```
 grunt.registerTask('default', [
