@@ -1,7 +1,6 @@
 ---
 title: How Does Data-Binding in D3 Work?
 tags: d3, data binding, hack reactor, game, javascript
-published: true  
 ---
 
 ###What's this D3 thing, anyway?
