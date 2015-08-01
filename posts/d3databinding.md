@@ -1,5 +1,5 @@
 ---
-title: new title
+title: Data Binding in D3
 tags: d3, data binding, hack reactor, game, javascript
 published: true
 ---
