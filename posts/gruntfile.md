@@ -1,5 +1,5 @@
 ---
-title: Hngh!, Or: What's a Grunt File, Anyway?
+title: Hngh!, Or, What's a Grunt File, Anyway?
 tags: grunt, javascript, hack reactor, automation, node
 published: true
 ---
