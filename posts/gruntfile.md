@@ -4,8 +4,6 @@ tags: grunt, javascript, hack reactor, automation, node
 published: true
 ---
 
-edit
-
 Sometimes, you find yourself doing the same things over and over (and when you code), like linting, minifying / uglifying, or installing from several different package managers (npm, bower, etc). It can be annoying and time-consuming to do all that manually several times. Wouldn't it be awesome if there was a tool that allowed us to automate just about anything?
 
 ##Enter [Grunt.](http://gruntjs.com/)
