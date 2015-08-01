@@ -4,10 +4,6 @@ tags: technical blog, blog, git, github, hosting
 published: true
 ---
 
-edit
-
-woo
-
 Technical blogs (like this one!) are one of those groaner things we new engineers are expected to produce, along with resumes and websites that work in IE6. The whole process kind of sucks, though! Some of the problems I've experienced include:
 
 - **Tech blogs are hard to set up**, in a *technical* sense. Setting up hosting, thinking of quirky-but-not-too-quirky domain names and then buying said names, etc. It's not pleasant.
