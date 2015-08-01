@@ -4,8 +4,6 @@ tags: d3, data binding, hack reactor, game, javascript
 published: true
 ---
 
-asdf
-
 ###What's this D3 thing, anyway?
 D3 stands for Data Driven Documents. It's a javascript library usually used for data visualization.
 
