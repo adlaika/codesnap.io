@@ -1,1 +1,1 @@
-A codesnap user.
+Peckish programmer transmitting technical tidbits.
